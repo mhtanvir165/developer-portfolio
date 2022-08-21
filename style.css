@@ -48,26 +48,33 @@ h1{
 }
 .experience-item{
     width: 40%;
-    margin-left: 70px;
-    margin-right: 100px;
-    padding: 20px;
+    
+    margin-right: 5%;
+    padding: 40px;
     box-shadow: 10px 10px 40px gray;
+    margin-bottom: 10%;
+    padding-bottom: 200px;
+    border-radius: 10px;
 }
 
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position-y: 100%;
-    margin-bottom: 100px;
+    background-position-y: 50%;
+    margin-left: 2%;
+    
     
 }
 
 #stack-border{
     border-left: 7px solid tomato;
+    margin-left: 0%;
 }
 
 #baby-border{
     border-left: 7px solid blue;
+    margin-left: 5%;
+    
 }
 footer{
     text-align: center;
