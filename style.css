@@ -50,12 +50,25 @@ h1{
     width: 40%;
     margin-left: 70px;
     margin-right: 100px;
-    box-shadow: 10px 10px 40px gray;
     padding: 20px;
+    box-shadow: 10px 10px 40px gray;
 }
 
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position-y: 100%;
+    margin-bottom: 100px;
+    
+}
+
+#stack-border{
+    border-left: 7px solid tomato;
+}
+
+#baby-border{
+    border-left: 7px solid blue;
+}
+footer{
+    text-align: center;
 }
